@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "nodemon": "^3.0.1"
+  },
+  "name": "n-basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
